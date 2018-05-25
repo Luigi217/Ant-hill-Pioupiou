@@ -11,7 +11,7 @@ Group members :
 
 - [Description](#description)
 - [Download](#download)
-- [Prerequisites](#prerequisites)
+- [Miscellaneous](#Miscellaneous)
 - [Development](#development)
 
 
@@ -20,7 +20,7 @@ Group members :
 git clone https://github.com/Luigi217/Ant-hill-Pioupiou.git
 ```
 
-## Prerequisites
+## Miscellaneous
 
 90% of the time, it works every time ¯\\_(ツ)_/¯ . 
 Open it with QT Creator.
