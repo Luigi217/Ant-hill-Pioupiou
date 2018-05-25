@@ -11,7 +11,7 @@ Group members :
 
 - [Description](#description)
 - [Download](#download)
-- [Miscellaneous](#Miscellaneous)
+- [Miscellaneous](#miscellaneous)
 - [Development](#development)
 
 
