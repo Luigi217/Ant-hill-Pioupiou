@@ -1,7 +1,6 @@
 #include "view.h"
 #include "ui_view.h"
 
-#include "control.h"
 #include "customscene.h"
 
 View::View(QWidget *parent) :
