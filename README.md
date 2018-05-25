@@ -4,7 +4,7 @@
 Group members :
  - Amaury Cahuet
  - Julien Bravo
- - [Julien Neveux](@Luigi217)
+ - [Julien Neveux](https://github.com/Luigi217)
 
 
 ## Contents
