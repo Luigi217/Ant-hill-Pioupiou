@@ -1,7 +1,6 @@
 # Ant-hill-Pioupiou
 ## Description
 
-Description
 Group members :
  - Amaury Cahuet
  - Julien Bravo
@@ -25,6 +24,7 @@ git clone https://github.com/Luigi217/Ant-hill-Pioupiou.git
 
 90% of the time, it works every time ¯\\_(ツ)_/¯ . 
 Open it with QT Creator.
+This project has been tested with MSCV2017 64bit compiler.
 
 ## Development
 
