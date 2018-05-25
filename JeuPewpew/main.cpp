@@ -1,8 +1,6 @@
 #include <QApplication>
 
 #include "view.h"
-#include "model.h"
-#include "control.h"
 #include "customscene.h"
 
 int main(int argc, char *argv[])
